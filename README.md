@@ -13,7 +13,7 @@ Use <code> delayMicroseconds(uint32_t time) </code> to delay the code by microse
 
 
 ## Contact
-Maintainer: [Sharan ***REMOVED***](https://github.com/***REMOVED***)  ***REMOVED***
+Maintainer: [Sharan ***REMOVED***](https://github.com/AtomicAntimatter)  ***REMOVED***
 
 ## LICENSE
 STM32F4 Time Library is available under the MIT License.
